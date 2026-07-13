@@ -1,0 +1,6 @@
+{
+  "name": "Noor Academy",
+  "description": "Noor Academy is a premium modern Islamic learning platform featuring courses on Quran, Arabic, Hadith, Computer and English, plus interactive exams, certificates, offline downloads, wallet, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
